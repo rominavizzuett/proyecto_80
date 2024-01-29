@@ -1,0 +1,26 @@
+#submit_button
+{background-color: hsl(212, 87%, 35%);
+	
+}
+#sort_button
+{background-color: bisque;
+	
+	
+}
+
+input
+{
+	background-color: aquamarine;
+}
+.display_name_with_commas
+{
+	background-color: blueviolet;
+}
+
+#display_name_without_commas
+{
+	background-color: deepskyblue;
+}
+body{
+    background-color: lightblue;
+}
